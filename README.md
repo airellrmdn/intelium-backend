@@ -1,5 +1,5 @@
 # RESTful API Node Express for Intelium Project
-The project builds a simple RESTful APIs using Node.js and Express ...
+The project builds a simple RESTful APIs using Node.js and Express.
 
 ## Manual Installation
 
